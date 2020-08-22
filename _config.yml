@@ -54,8 +54,8 @@ features                                  :
     description                           : #
     fontawesome_icon_name                 : #
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Easy to Use
+    description                           : Switch between themes with ease! No messing with app configurations or settings.
     fontawesome_icon_name                 : adjust
   
   - title                                 : #
