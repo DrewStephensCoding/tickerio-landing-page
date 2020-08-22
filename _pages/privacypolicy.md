@@ -127,15 +127,9 @@ We may update this privacy notice from time to time. The updated version will be
 
 ### 11. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
-If you have questions or comments about this notice, you may email us at drewstephensdesigns@gmail.com or by post to:
-
-Drew Stephens Designs 
-__________
-__________
-United States
+If you have questions or comments about this notice, you may email us at drewstephensdesigns@gmail.com
 
 
-###HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
-
+### HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request form by clicking here. We will respond to your request within 30 days.
-This privacy policy was created using [Termly’s Privacy Policy Generator](https://termly.io/).
+**_This privacy policy was created using [Termly’s Privacy Policy Generator](https://termly.io/).
